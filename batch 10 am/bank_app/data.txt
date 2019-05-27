@@ -1,0 +1,1 @@
+{"1942000100": {"Name": "John", "password": "john@123", "balance": 20000}, "1942000101": {"Name": "Mohan", "password": "aashk@123", "balance": 25000}, "1942000949": {"Name": "Piyush", "password": "piyush@123", "balance": 2000}, "1942000359": {"Name": "Anish", "password": "anish@123", "balance": 2000}}

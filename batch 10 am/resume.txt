@@ -1,0 +1,14 @@
+{
+     "user1": {
+          "name": "Rahul",
+          "Age": 35,
+          "City": "jaipur",
+          "Qual": "B.Tech"
+     },
+     "user2": {
+          "name": "Pradeep",
+          "age": 21,
+          "college": "ACERC",
+          "Qual": "B.Tech"
+     }
+}
